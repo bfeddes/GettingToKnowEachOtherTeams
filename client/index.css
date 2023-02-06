@@ -1,26 +1,34 @@
+body {text-align: center;}
+.title {font-size: 30px; font-weight: bold;}
+.teampic {height:fit-content; width: fit-content;}
+.individualpics {height:200px; width: 150px}
+hr {
+  margin-top: 0%;
+  margin-bottom: 0%;
+  border: none;
+  height: 1px;
+  width: 20p;
+  color:whitesmoke;
+  background-color: whitesmoke;
+}
+.portfolios {width: 15%; display: inline-table;}
 
-.center {
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
-
-
-.assignments{
-  color:orangered;
-  text-decoration-line: underline;
-  padding-left: 70px;
+a:link {
+  text-decoration: none;
+  color: whitesmoke;
 }
 
-.headings {
-    text-align: center;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
-    width: 50%;
-  }
+a:visited {
+  text-decoration: none;
+  color: whitesmoke;
+}
 
-  body{
-    background-color:skyblue;
-  }
+a:hover {
+  text-decoration: none;
+  color: whitesmoke;
+}
+
+a:active {
+  text-decoration: none;
+  color: whitesmoke;
+}
